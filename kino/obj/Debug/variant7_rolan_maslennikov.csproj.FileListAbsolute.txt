@@ -1,0 +1,7 @@
+C:\Users\opilane\source\repos\TARpv20 Rolan Maslennikov\variant7_rolan_maslennikov\bin\Debug\variant7_rolan_maslennikov.exe.config
+C:\Users\opilane\source\repos\TARpv20 Rolan Maslennikov\variant7_rolan_maslennikov\bin\Debug\variant7_rolan_maslennikov.exe
+C:\Users\opilane\source\repos\TARpv20 Rolan Maslennikov\variant7_rolan_maslennikov\bin\Debug\variant7_rolan_maslennikov.pdb
+C:\Users\opilane\source\repos\TARpv20 Rolan Maslennikov\variant7_rolan_maslennikov\obj\Debug\variant7_rolan_maslennikov.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TARpv20 Rolan Maslennikov\variant7_rolan_maslennikov\obj\Debug\variant7_rolan_maslennikov.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TARpv20 Rolan Maslennikov\variant7_rolan_maslennikov\obj\Debug\variant7_rolan_maslennikov.exe
+C:\Users\opilane\source\repos\TARpv20 Rolan Maslennikov\variant7_rolan_maslennikov\obj\Debug\variant7_rolan_maslennikov.pdb
